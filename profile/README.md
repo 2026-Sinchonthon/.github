@@ -97,18 +97,60 @@
 
 ### 심사 기준
 
-| 심사 항목 | 평가 지표 | 배점 |
-| --- | --- | --- |
-| 사업계획 | 문제상황 정의 | 10 |
-| (35%) | 혁신성·창의성 | 15 |
-|  | 구체적인 타겟 유저·비즈니스 모델·시장성 | 10 |
-| 개발 기술 구현 | UI 구현 완성도 | 20 |
-| (45%) | 기능 완성도(프론트엔드-백엔드 연결 등) | 20 |
-|  | 실행·배포 | 5 |
-| 발표 | 전달력 | 10 |
-| (20%) | 발표 자료 완성도 | 5 |
-|  | 질의 응답 | 5 |
-| 합계 |  | 100 |
+<table>
+  <thead>
+    <tr>
+      <th>심사 항목</th>
+      <th>평가 지표</th>
+      <th>배점</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="3" align="center">사업계획<br>(35%)</td>
+      <td align="center">문제상황 정의</td>
+      <td align="center">10</td>
+    </tr>
+    <tr>
+      <td align="center">혁신성·창의성</td>
+      <td align="center">15</td>
+    </tr>
+    <tr>
+      <td align="center">구체적인 타겟 유저·비즈니스 모델·시장성</td>
+      <td align="center">10</td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="center">개발 기술 구현<br>(45%)</td>
+      <td align="center">UI 구현 완성도</td>
+      <td align="center">20</td>
+    </tr>
+    <tr>
+      <td align="center">기능 완성도(프론트엔드-백엔드 연결 등)</td>
+      <td align="center">20</td>
+    </tr>
+    <tr>
+      <td align="center">실행·배포</td>
+      <td align="center">5</td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="center">발표<br>(20%)</td>
+      <td align="center">전달력</td>
+      <td align="center">10</td>
+    </tr>
+    <tr>
+      <td align="center">발표 자료 완성도</td>
+      <td align="center">5</td>
+    </tr>
+    <tr>
+      <td align="center">질의 응답</td>
+      <td align="center">5</td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">합계</td>
+      <td align="center">100</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 심사위원
 
