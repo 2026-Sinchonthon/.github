@@ -1,4 +1,4 @@
-<img alt="sinchonthon_banner" src="https://github.com/user-attachments/assets/37e47637-385b-49f6-8103-d1f44f34a5ed" />
+<img alt="2026 신촌톤 배너" src="https://github.com/user-attachments/assets/959d63d4-b65d-4199-aa83-93f1134eac94" />
 
 ## Sinchonthon: 멋쟁이사자처럼 대학 소속 신촌권역 대학교 연합 해커톤
 
